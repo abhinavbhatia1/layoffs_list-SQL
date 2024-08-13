@@ -7,7 +7,7 @@ This is project done by me on the list of the company done layoffs in Covid pand
 MySQL for Cleaning
 MySQL for EDA
 
-### Data cleaning 
+### Data cleaning & Data Analysis 
 1. Make database & Import the table
 2. See the Null values in whole table
 3. Remove duplicates from each columns
